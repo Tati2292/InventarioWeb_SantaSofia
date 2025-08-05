@@ -1,0 +1,4 @@
+com\santasofia\controlador\ProductoServlet.class
+com\santasofia\modelo\ProductoDAO.class
+com\santasofia\modelo\Producto.class
+com\santasofia\modelo\Conexion.class
